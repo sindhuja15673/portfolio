@@ -22,7 +22,7 @@ export default function Home() {
           <h1 className="text-1xl md:text-3xl font-bold p-2">Hi, This is </h1>
           <h1 className="text-3xl md:text-6xl font-bold p-2">Sindhuja</h1>
           <h2 className="text-2xl font-bold p-2">
-            And I’m a <span className="text-blue-400">
+            And I&apos;m a <span className="text-blue-400">
             <Typewriter
                   words={["Frontend Developer", "Web Developer", "React Developer", "Next.js Developer"]}
                   loop={true}
@@ -36,7 +36,7 @@ export default function Home() {
           </h2>
           <p className="mt-2 p-2">
             I am a Web Developer specialized in HTML,CSS, JavaScript, React, Redux, Redux Saga, Next.js, and modern web technologies.
-            Let's build amazing projects together!
+            Let&apos;s build amazing projects together!
           </p>
 
           <div className="flex items-center gap-4 mt-4 p-2">
